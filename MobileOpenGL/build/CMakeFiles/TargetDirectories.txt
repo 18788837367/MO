@@ -1,0 +1,5 @@
+/Users/zrf/MobileOpenGL/build/CMakeFiles/ALL_BUILD.dir
+/Users/zrf/MobileOpenGL/build/CMakeFiles/ZERO_CHECK.dir
+/Users/zrf/MobileOpenGL/build/core/CMakeFiles/MO.dir
+/Users/zrf/MobileOpenGL/build/core/CMakeFiles/support.dir
+/Users/zrf/MobileOpenGL/build/examples/LearnOpenGL/CreatingWindow/CMakeFiles/example_CreatingWindow.dir

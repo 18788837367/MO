@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": true,
+    "cmake.configureOnOpen": false,
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
