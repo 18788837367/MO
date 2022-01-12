@@ -1,0 +1,4 @@
+MobileOpenGL/build
+MobileOpenGL/build/*
+MobileOpenGL/lib
+MobileOpenGL/lib/*

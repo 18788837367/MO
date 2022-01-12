@@ -13,4 +13,4 @@ if [ ! -d ${BUILD_DIR} ]; then
     mkdir ${BUILD_DIR}
 fi
 
-cmake -GXcode -DCMAKE_TOOLCHAIN_FILE=${CMAKEMODULES_DIR}/macos.xcode.toolchain.cmake -S ${ROOT_DIR} -B ${BUILD_DIR}
+cmake -G"Xcode" -DCMAKE_TOOLCHAIN_FILE=${CMAKEMODULES_DIR}/macos.xcode.toolchain.cmake -S ${ROOT_DIR} -B ${BUILD_DIR}
