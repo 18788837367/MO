@@ -1,4 +1,6 @@
 MobileOpenGL/build
 MobileOpenGL/build/*
+MobileOpenGL/bin
+MobileOpenGL/bin/*
 MobileOpenGL/lib
 MobileOpenGL/lib/*
