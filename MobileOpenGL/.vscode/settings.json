@@ -3,6 +3,8 @@
     "C_Cpp.dimInactiveRegions": true,
     "cmake.configureOnOpen": false,
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "__config": "cpp",
+        "__nullptr": "cpp"
     }
 }
